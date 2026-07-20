@@ -1,4 +1,4 @@
-##README
+## README
 
 *○r_script_clus.Rの使い方*
 
